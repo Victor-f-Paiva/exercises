@@ -1,2 +1,2 @@
-# exercises
-List of exercises to train programming logic
+# Exercises to practise
+Lists of exercises to train programming logic and programming languages
